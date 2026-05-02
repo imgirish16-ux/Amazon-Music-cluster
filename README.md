@@ -1,6 +1,6 @@
 # Amazon-Music-cluster
 Unsupervised ML project that clusters Amazon Music songs into meaningful sound groups using K-Means, PCA visualization, Silhouette Score, and Davies–Bouldin evaluation on audio features like danceability, energy, and tempo
-# 🎵 Amazon Music Clustering — Unsupervised Learning Project
+#  Amazon Music Clustering — Unsupervised Learning Project
 
 This project applies **Unsupervised Machine Learning (K-Means Clustering)** to group songs from Amazon Music into meaningful clusters based on their audio characteristics such as danceability, energy, tempo, valence, and more.
 
@@ -8,7 +8,7 @@ The goal is to automatically discover patterns in how songs *sound* and infer po
 
 ---
 
-## 🚀 Problem Statement
+##  Problem Statement
 
 With millions of songs available on streaming platforms, manually categorizing music into genres is inefficient. This project uses clustering techniques to group similar songs based on audio features, enabling:
 
@@ -19,7 +19,7 @@ With millions of songs available on streaming platforms, manually categorizing m
 
 ---
 
-## 🧠 Approach
+## Approach
 
 1. Data Cleaning & Feature Selection
 2. Feature Scaling using StandardScaler
@@ -34,7 +34,7 @@ With millions of songs available on streaming platforms, manually categorizing m
 
 ---
 
-## 📊 Features Used
+## Features Used
 
 - danceability
 - energy
@@ -50,7 +50,7 @@ These features describe the rhythm, intensity, mood, and instrumentation of song
 
 ---
 
-## 📈 Evaluation Metrics
+## Evaluation Metrics
 
 | Metric | Value | Interpretation |
 |--------|-------|----------------|
@@ -59,7 +59,7 @@ These features describe the rhythm, intensity, mood, and instrumentation of song
 
 ---
 
-## 📷 Visualizations
+## Visualizations
 
 - Elbow Method graph
 - PCA Cluster Scatter Plot
@@ -67,7 +67,7 @@ These features describe the rhythm, intensity, mood, and instrumentation of song
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Python
 - Pandas, NumPy
@@ -76,4 +76,4 @@ These features describe the rhythm, intensity, mood, and instrumentation of song
 
 ---
 
-## 📁 Project Structure
+
